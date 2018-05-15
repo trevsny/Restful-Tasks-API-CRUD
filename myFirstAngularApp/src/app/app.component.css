@@ -1,0 +1,9 @@
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#show {
+    border: black 1px solid;
+    margin: 25px;
+}
